@@ -52,8 +52,7 @@ $ client-cli remove [_ID]
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Shahriar Saleque
 
 ### Version
 
